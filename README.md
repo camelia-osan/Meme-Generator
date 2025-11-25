@@ -37,4 +37,3 @@ It is inspired by the [Scrimba Learn React course](https://scrimba.com/learn-rea
 ![Mobile View](screenshots/Mobile.png)
 
 **Download**  
-![Download](screenshots/Download.png)
