@@ -24,7 +24,7 @@ It is inspired by the [Scrimba Learn React course](https://scrimba.com/learn-rea
 * React – functional components, hooks and props;
 * CSS Flexbox, Grid & Media Queries – styling, layout and responsiveness;
 * [Imgflip API](https://imgflip.com/api) - for fetching meme background images;
-* HTML2Canvas - for exporting the meme as an image.
+* [HTML2Canvas](https://html2canvas.net/) - for exporting the meme as an image.
 
 
 ### Screenshots
