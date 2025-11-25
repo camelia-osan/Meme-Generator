@@ -1,5 +1,5 @@
 # Meme-Generator
-Frontend Development, HTML, CSS, JavaScript and React
+Frontend Development - HTML, CSS, JavaScript and React
 
 
 ### Description
